@@ -1,4 +1,4 @@
-# **Airbnb India 2024: Basic Analysis on Rental Prices**
+# **Airbnb : Basic Analysis on Prices**
 
 ### **Project Overview**  
 This project aims to perform a basic analysis of Airbnb listings in India. We will clean and transform the dataset, and then conduct hypothesis testing to understand the factors influencing rental prices. The analysis will focus on the following key variables:
